@@ -1,2 +1,3 @@
 #Anna Potryvaieva
-##contact
+##contact e-mail: 
+###annapotri@gmail.com
